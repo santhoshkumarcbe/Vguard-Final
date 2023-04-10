@@ -1,6 +1,5 @@
 import firebase from "firebase/compat/app";
 import { getFirestore} from 'firebase/firestore/lite';
-// import {getDatabase} from 'firebase/database'
 import {getDatabase} from 'firebase/database'
 
 
