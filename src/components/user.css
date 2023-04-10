@@ -1,0 +1,86 @@
+/* userpage.css */ 
+ 
+/* Style for the heading */ 
+.user-container{
+  background-color: black;
+  display: cover;
+}
+.heading { 
+    font-size: 24px; 
+    margin-bottom: 16px; 
+    color: goldenrod;
+    display: contents;
+  padding: 10px;
+  width: 200px;
+
+  } 
+   
+  /* Style for the text */ 
+  .text { 
+    font-size: 18px; 
+    line-height: 1.5; 
+    margin-bottom: 24px; 
+    color: goldenrod;
+    align-items: center;
+  } 
+   
+  /* Style for the video */ 
+  .video { 
+    width: 100%; 
+    height: 650px; 
+    margin-bottom: 24px; 
+  } 
+   
+  /* Style for the quizzes */ 
+  .quiz { 
+    margin-bottom: 24px; 
+    color: goldenrod;
+
+  } 
+   
+  /* Style for the quiz title */ 
+  .quiz-title { 
+    font-size: 20px; 
+    margin-bottom: 16px; 
+    color: goldenrod;
+
+  } 
+   
+  /* Style for the quiz description */ 
+  .quiz-description { 
+    font-size: 16px; 
+    margin-bottom: 8px; 
+    color: goldenrod;
+
+  } 
+   
+  /* Style for the quiz questions */ 
+  .quiz-question { 
+    font-size: 16px; 
+    margin-bottom: 8px; 
+    color: goldenrod;
+
+  } 
+   
+  /* Style for the quiz options */ 
+  .quiz-option { 
+    margin-bottom: 8px; 
+    display: flex; 
+    align-items: center; 
+    color: goldenrod;
+
+  } 
+   
+  /* Style for the quiz option label */ 
+  .quiz-option-label { 
+    margin-right: 8px; 
+    color: goldenrod;
+
+  } 
+   
+  /* Style for the quiz option input */ 
+  .quiz-option-input { 
+    margin-right: 8px; 
+    color: goldenrod;
+
+  }
